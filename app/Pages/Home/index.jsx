@@ -2,10 +2,12 @@
 
 
 
-import Section from "Components/Section"
+import Section from 'Components/Section'
 
 
 export default function Home(){
+
+  //const name = 'pol';
 
 
   return (
