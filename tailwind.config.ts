@@ -23,6 +23,7 @@ const config: Config = {
   
         'lg': {'min': '800px' , 'max': '900px'},
         // => @media (max-width: 1023px) { ... }
+        's': {'max': '600px'},
   
       }
 
