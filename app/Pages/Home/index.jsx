@@ -7,6 +7,8 @@ import Section from 'Components/Section'
 
 export default function Home(){
 
+  console.log("Testing...")
+
 
 
   return (
