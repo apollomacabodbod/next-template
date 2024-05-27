@@ -15,7 +15,7 @@ export default function Home(){
     <>
 
 
-      <div className="max-w-[1200px] mx-auto border-[2px] border-[#FF0000]" >
+      <div className="max-w-[1200px] mx-auto border-[2px] border-[#EE4E4E]" >
 
         <Section/>
 
